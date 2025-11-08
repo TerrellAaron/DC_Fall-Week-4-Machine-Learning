@@ -369,7 +369,7 @@ Duplicate one of your existing cards and update the details:
 - [ ] All changes are committed and pushed
 - [ ] Site is live on GitHub Pages
 - [ ] Everything works when you click the "Start" button
-- [ ] You've reflected on the prompts above (optional but encouraged!)
+- [ ] Update your portfolio and add a card for this project.
 
 ---
 
